@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Material-UI</string>
+
+
+    <string name="error_network_connection_message">Looks like your network connection is missing. For full access to app features, connect to your local network by visiting your settings.</string>
+    <string name="title_error_network_connection">Network Connection</string>
+    <string name="error_network_connection_settings">Go to settings</string>
+    <string name="default_error">Error!</string>
+    <string name="unknown_error">Unknown error occurred!</string>
+
+    <string name="error">Error</string>
+    <string name="title">Title</string>
+    <string name="supporting_text">Supporting text</string>
+    <string name="cancel">Cancel</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="action_1">Action 1</string>
+    <string name="action_2">Action 2</string>
+    <string name="outlined_button">Outlined button</string>
+
+</resources>
